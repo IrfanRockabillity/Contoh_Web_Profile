@@ -1,0 +1,61 @@
+#header {
+text-align:center;
+
+}
+#bodyhome {
+	padding: 10px;
+}
+#bodyhome a{
+text-decoration:none;
+}
+
+#bodyadmin {
+	background-color:#000000;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	color: #000000;
+	width:1300px;
+	padding-bottom:200px;
+	padding-top:100px;
+}
+#navigasi {
+	text-align:center;
+	padding-top: 0px;
+	padding-right: 10px;
+	padding-bottom: 0px;
+	padding-left: 10px;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #CCCCCC;
+	border-right-color: #CCCCCC;
+	border-bottom-color: #CCCCCC;
+	border-left-color: #CCCCCC;
+	background-color:Beige;
+}
+	#navigasi ul {
+		padding: 0px;
+	
+	}
+		#navigasi li {
+			display: inline;
+			margin-left: 10px;
+			list-style-type: none;
+		}
+			#navigasi li a {
+			color:#000000;
+			text-decoration:none;
+			padding-top:10px;
+			padding-bottom:10px;
+			padding-left:5px;
+			padding-right:5px;
+			
+			}
+				#navigasi li a:hover {
+						background:#999999;
+					}
